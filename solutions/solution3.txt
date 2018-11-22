@@ -1,0 +1,2 @@
+warning : format '%f' expects arguement of type 'double',but arguement 2 has type 'int'
+it will give garbage value
